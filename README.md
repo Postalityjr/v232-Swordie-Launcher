@@ -30,7 +30,7 @@ Released for **reference and personal use**.
 ---
 
 ## 🚀 How to Use
-
+- Authhook and Blackcipher bypass is required
 - Add your Base64 encoded IP Address into Configs.cs, Compile
 - Move the v232 Launcher.exe and WpfAnimatedGif.dll to your game folder, Run it as Admin
 - Wz Checks server side may need to be disabled in order for it to work
