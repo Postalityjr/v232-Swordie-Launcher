@@ -29,6 +29,7 @@ Launches the MapleStory client after successful authentication
 
 Credits:
 Level - Backend
+
 NutNNut - Backend
 
 Launcher Design completely made by Lynx
