@@ -1,35 +1,81 @@
 # v232-Swordie-Launcher
-Swordie v232 Launcher
 
-A lightweight launcher with customizable features for connecting to a Swordie v232 MapleStory server.
+![Status](https://img.shields.io/badge/status-as--is-red)
+![Maintenance](https://img.shields.io/badge/maintenance-none-lightgrey)
+![Version](https://img.shields.io/badge/maplestory-v232-blue)
 
-This launcher handles account actions, basic client verification, and game launching through a custom backend protocol.
+Lightweight custom launcher built for **Swordie v232**.
 
--Features-
+Handles account actions, basic client verification, and launching the game through a custom backend.
 
-Login & Registration
+Released for **reference and personal use**.
 
-Create and login to accounts directly from the launcher
+---
 
-Designed to work with Swordie 232's users table by default
+## ✨ Features
 
-Backend Communication
+**Account**
+- Login & registration directly from the launcher
+- Compatible with Swordie v232 `users` table by default
 
-Connects to a authentication server via TCP
+**Backend**
+- TCP-based authentication backend
+- Structured packet communication
+- Backend-controlled launch approval
 
-Uses structured packets for requests and responses
+**Client**
+- Optional client / WZ verification
+- Launches the MapleStory client after successful authentication
 
-Client Verification
+---
 
-Optional checks such as WZ validation
+## ⚠️ Project Status
 
-Backend-controlled approval before launch
+> This project is **not actively maintained**.  
+> Provided **as-is**, with **no guarantees**.
 
-Launches the MapleStory client after successful authentication
+- No support or troubleshooting  
+- No feature requests  
+- Issues and pull requests may be ignored  
+- Expect to modify things yourself  
 
-Credits:
-Level - Backend
+If you don’t know how to fix things on your own, this repo is **not for you**.
 
-NutNNut - Backend
+---
 
-Launcher Design completely made by Lynx
+## 🧩 Usage
+
+- Intended for private servers and personal projects  
+- Meant as a base or reference  
+- You are expected to adapt it to your own setup  
+
+---
+
+## 🧾 Credits
+
+**Backend**
+- Level  
+- NutNNut  
+
+**Launcher Design**
+- Lynx  
+
+---
+
+## 📌 Final Note
+
+Forking and modifying this project is completely fine.
+
+Do **not** rebrand or sell this as your own work.  
+This was released to give back, not to make a dollar off it.
+
+---
+
+## ❓ Why Is This Public?
+
+We wanted to simply give back to the community
+
+## Images
+
+<img width="1275" height="715" alt="Screenshot_2" src="https://github.com/user-attachments/assets/ea805de0-870e-4fb6-ad91-877309a940bc" />
+
