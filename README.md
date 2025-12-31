@@ -4,7 +4,7 @@
 ![Maintenance](https://img.shields.io/badge/maintenance-none-lightgrey)
 ![Version](https://img.shields.io/badge/maplestory-v232-blue)
 
-Lightweight custom launcher built for **Swordie v232**.
+Lightweight custom launcher built on the base of the **Swordie v232** public release.
 
 Handles account actions, basic client verification, and launching the game through a custom backend.
 
