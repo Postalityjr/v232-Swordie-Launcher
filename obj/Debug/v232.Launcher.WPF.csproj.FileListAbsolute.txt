@@ -1,0 +1,72 @@
+D:\232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\bin\Debug\v232 Launcher.exe
+D:\232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\bin\Debug\v232 Launcher.pdb
+D:\232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\bin\Debug\WpfAnimatedGif.dll
+D:\232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\bin\Debug\WpfAnimatedGif.pdb
+D:\232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\bin\Debug\WpfAnimatedGif.xml
+D:\232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\v232.Launcher.WPF.csproj.AssemblyReference.cache
+D:\232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\MainWindow.baml
+D:\232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\Themes\DarkTheme.baml
+D:\232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\Themes\NeonTheme.baml
+D:\232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\App.baml
+D:\232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\MainWindow.g.cs
+D:\232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\App.g.cs
+D:\232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\v232 Launcher_MarkupCompile.cache
+D:\232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\v232 Launcher.g.resources
+D:\232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\v232.Launcher.WPF.csproj.CoreCompileInputs.cache
+D:\232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\v232.Lau.95690F17.Up2Date
+D:\232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\v232 Launcher.exe
+D:\232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\v232 Launcher.pdb
+C:\Users\Admin\Desktop\v232.Launcher.WPF\bin\Debug\v232 Launcher.exe
+C:\Users\Admin\Desktop\v232.Launcher.WPF\bin\Debug\v232 Launcher.pdb
+C:\Users\Admin\Desktop\v232.Launcher.WPF\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Admin\Desktop\v232.Launcher.WPF\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\Admin\Desktop\v232.Launcher.WPF\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Admin\Desktop\v232.Launcher.WPF\obj\Debug\v232.Launcher.WPF.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\v232.Launcher.WPF\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\v232.Launcher.WPF\obj\Debug\Themes\DarkTheme.baml
+C:\Users\Admin\Desktop\v232.Launcher.WPF\obj\Debug\Themes\NeonTheme.baml
+C:\Users\Admin\Desktop\v232.Launcher.WPF\obj\Debug\App.baml
+C:\Users\Admin\Desktop\v232.Launcher.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\v232.Launcher.WPF\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\v232.Launcher.WPF\obj\Debug\v232 Launcher_MarkupCompile.cache
+C:\Users\Admin\Desktop\v232.Launcher.WPF\obj\Debug\v232 Launcher.g.resources
+C:\Users\Admin\Desktop\v232.Launcher.WPF\obj\Debug\v232.Launcher.WPF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\v232.Launcher.WPF\obj\Debug\v232.Lau.95690F17.Up2Date
+C:\Users\Admin\Desktop\v232.Launcher.WPF\obj\Debug\v232 Launcher.exe
+C:\Users\Admin\Desktop\v232.Launcher.WPF\obj\Debug\v232 Launcher.pdb
+C:\Users\Admin\Desktop\232 Launcher Files\v232.Launcher.WPF\bin\Debug\v232 Launcher.exe
+C:\Users\Admin\Desktop\232 Launcher Files\v232.Launcher.WPF\bin\Debug\v232 Launcher.pdb
+C:\Users\Admin\Desktop\232 Launcher Files\v232.Launcher.WPF\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Admin\Desktop\232 Launcher Files\v232.Launcher.WPF\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\Admin\Desktop\232 Launcher Files\v232.Launcher.WPF\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Admin\Desktop\232 Launcher Files\v232.Launcher.WPF\obj\Debug\v232.Launcher.WPF.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\232 Launcher Files\v232.Launcher.WPF\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\232 Launcher Files\v232.Launcher.WPF\obj\Debug\Themes\DarkTheme.baml
+C:\Users\Admin\Desktop\232 Launcher Files\v232.Launcher.WPF\obj\Debug\Themes\NeonTheme.baml
+C:\Users\Admin\Desktop\232 Launcher Files\v232.Launcher.WPF\obj\Debug\App.baml
+C:\Users\Admin\Desktop\232 Launcher Files\v232.Launcher.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\232 Launcher Files\v232.Launcher.WPF\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\232 Launcher Files\v232.Launcher.WPF\obj\Debug\v232 Launcher_MarkupCompile.cache
+C:\Users\Admin\Desktop\232 Launcher Files\v232.Launcher.WPF\obj\Debug\v232 Launcher.g.resources
+C:\Users\Admin\Desktop\232 Launcher Files\v232.Launcher.WPF\obj\Debug\v232.Launcher.WPF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\232 Launcher Files\v232.Launcher.WPF\obj\Debug\v232.Lau.95690F17.Up2Date
+C:\Users\Admin\Desktop\232 Launcher Files\v232.Launcher.WPF\obj\Debug\v232 Launcher.exe
+C:\Users\Admin\Desktop\232 Launcher Files\v232.Launcher.WPF\obj\Debug\v232 Launcher.pdb
+C:\Users\Admin\Desktop\v232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\bin\Debug\v232 Launcher.exe
+C:\Users\Admin\Desktop\v232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\bin\Debug\v232 Launcher.pdb
+C:\Users\Admin\Desktop\v232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Admin\Desktop\v232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\Admin\Desktop\v232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Admin\Desktop\v232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\v232.Launcher.WPF.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\v232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\v232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\Themes\DarkTheme.baml
+C:\Users\Admin\Desktop\v232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\Themes\NeonTheme.baml
+C:\Users\Admin\Desktop\v232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\App.baml
+C:\Users\Admin\Desktop\v232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\v232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\v232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\v232 Launcher_MarkupCompile.cache
+C:\Users\Admin\Desktop\v232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\v232 Launcher.g.resources
+C:\Users\Admin\Desktop\v232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\v232.Launcher.WPF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\v232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\v232.Lau.95690F17.Up2Date
+C:\Users\Admin\Desktop\v232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\v232 Launcher.exe
+C:\Users\Admin\Desktop\v232 Launcher Files\232 Launcher Files\v232.Launcher.WPF\obj\Debug\v232 Launcher.pdb
