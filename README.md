@@ -69,6 +69,13 @@ If you don’t know how to fix things on your own, this repo is **not for you**.
 
 ---
 
+## 🔗 Links & Resources
+
+- [Authhook & Launcher](https://forum.ragezone.com/threads/v232-swordie-launcher.1258180)
+
+---
+
+
 ## 📌 Final Note
 
 Forking and modifying this project is completely fine.
