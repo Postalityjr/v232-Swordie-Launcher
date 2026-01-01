@@ -85,10 +85,6 @@ This was released to give back, not to make a dollar off it.
 
 ---
 
-## ❓ Why Is This Public?
-
-We wanted to simply give back to the community
-
 ## Images
 
 <img width="1275" height="715" alt="Screenshot_2" src="https://github.com/user-attachments/assets/ea805de0-870e-4fb6-ad91-877309a940bc" />
